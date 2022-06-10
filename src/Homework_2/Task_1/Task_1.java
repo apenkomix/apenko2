@@ -1,5 +1,6 @@
 package Homework_2.Task_1;
 
+//+- В задаче указано вывести сколько пробежит спортсмен за все 7 дней
 public class Task_1 {
     public static void main(String[] args) {
         double a = 10;
