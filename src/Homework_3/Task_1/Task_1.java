@@ -2,6 +2,7 @@ package Homework_3.Task_1;
 
 import java.util.Scanner;
 
+//+- Поправь названия классов во всей домашке, пожалуйста 
 public class Task_1 {
     public static void main(String[] args) {
         int array[] = new int[3];
