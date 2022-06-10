@@ -1,5 +1,6 @@
 package Homework_2.Task_8;
 
+//+
 public class Task_8 {
     public static void main(String[] args) {
         int evenSum = 0;
