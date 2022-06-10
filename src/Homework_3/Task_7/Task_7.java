@@ -2,6 +2,7 @@ package Homework_3.Task_7;
 
 import java.util.Arrays;
 
+//+
 public class Task_7 {
     public static void main(String[] args) {
         int[] array = new int[]{9, 3, 4, 7, 1, 8, 5, 0, 6, 2};
