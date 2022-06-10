@@ -1,8 +1,9 @@
 package Homework_2.Task_3;
 
+//+
 public class Task_3 {
     public static void main(String[] args) {
-        //int i = 1;
+        //int i = 1; <- убираем ненужные комментарии перед коммитом
         int a = 0;
         for (int i = 1; i <= 256; i = i + i) {
             a = a + i;
