@@ -1,7 +1,7 @@
 package Homework_2.Task_8;
 
 //+
-public class Task_8 {
+public class TaskEight {
     public static void main(String[] args) {
         int evenSum = 0;
         int oddSum = 0;
