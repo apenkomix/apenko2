@@ -1,7 +1,7 @@
 package Homework_2.Task_3;
 
 //+
-public class Task_3 {
+public class TaskThree {
     public static void main(String[] args) {
         //int i = 1; <- убираем ненужные комментарии перед коммитом
         int a = 0;

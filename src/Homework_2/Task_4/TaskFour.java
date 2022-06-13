@@ -1,7 +1,7 @@
 package Homework_2.Task_4;
 
 //+-
-public class Task_4 {
+public class TaskFour {
     public static void main(String[] args) {
         int a = 7;
         int b = 7;

@@ -1,7 +1,7 @@
 package Homework_2.Task_5;
 
 //+
-public class Task_5 {
+public class TaskFive {
     public static void main(String[] args) {
         double a = 2.54; //название переменной должно быть более значимым 
         double b = 0;

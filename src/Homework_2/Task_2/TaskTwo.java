@@ -1,7 +1,7 @@
 package Homework_2.Task_2;
 
-//+
-public class Task_2 {
+
+public class TaskTwo {
     public static void main(String[] args) {
         int a = 1;
         for (int i = 3; i <= 24; i = i + 3) {
