@@ -1,7 +1,6 @@
 package Homework_3.Task_5;
 
-//+
-public class Task_5 {
+public class TaskFive {
     public static void main(String[] args) {
         int[] array = new int[]{0, 1, 2, 3, 4};
         int order = 0; //что значит имя переменной? Как я вижу, это буфер для перекидки элементов. Может быть temp, buff, buffer  

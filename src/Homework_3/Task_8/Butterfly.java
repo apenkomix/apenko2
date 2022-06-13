@@ -2,8 +2,7 @@ package Homework_3.Task_8;
 
 import java.util.Scanner;
 
-//+- в задании была указана возможность задания ширины и высоты
-public class Task_8 {
+public class Butterfly {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of rows needed to print the pattern ");

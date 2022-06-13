@@ -1,7 +1,6 @@
 package Homework_3.Task_4;
 
-//+
-public class Task_4 {
+public class TaskFour {
     public static void main(String[] args) {
         int[][] array = new int[9][9];
 

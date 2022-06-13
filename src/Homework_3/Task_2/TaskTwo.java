@@ -1,7 +1,7 @@
 package Homework_3.Task_2;
 
 //+
-public class Task_2 {
+public class TaskTwo {
     public static void main(String[] args) {
         int[] array = new int[]{1, 2, 3, 4, 5};
         int sum = 0;
