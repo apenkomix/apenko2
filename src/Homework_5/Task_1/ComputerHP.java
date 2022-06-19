@@ -1,6 +1,8 @@
 package Homework_5.Task_1;
 
-public class ComputerHP implements Computer{
+import Homework_5.Task_1.Computer;
+
+public class ComputerHP implements Computer {
     @Override
     public void turnOn() {
         System.out.println("turnOn");
