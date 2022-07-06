@@ -1,5 +1,6 @@
 package Homework_4.Task_2;
 
+// Так что будет выведено?) И нужно подумать почему. И не совсем верно переписано (со строки 7)
 public class ExecutionQueue {
     private static String msg = "statik block";
 
