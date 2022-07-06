@@ -1,5 +1,6 @@
 package Homework_6.Task_2;
 
+//+
 public class Transmision {
     private int speed = 0;
 
