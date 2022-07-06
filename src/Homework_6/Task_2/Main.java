@@ -1,5 +1,6 @@
 package Homework_6.Task_2;
 
+//+
 public class Main {
     public static void main(String[] args) {
         Transmision transmision = new Transmision();
@@ -16,6 +17,6 @@ public class Main {
         car.stopEngine();
         car.stopEngine();
         car.drive();
-
+//лишняя пустая строчка
     }
 }
