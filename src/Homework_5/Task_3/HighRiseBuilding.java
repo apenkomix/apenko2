@@ -1,5 +1,6 @@
 package Homework_5.Task_3;
 
+//+
 public class HighRiseBuilding implements HouseMain {
     private int numberOfFloors;
     private boolean turnedOnHeating = true;
