@@ -1,5 +1,6 @@
 package Homework_5.Task_3;
 
+//+
 public class Main {
     public static void main(String[] args) {
         CountryHouse countryHouse = new CountryHouse(1, 10);
