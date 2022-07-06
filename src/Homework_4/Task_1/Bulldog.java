@@ -2,6 +2,13 @@ package Homework_4.Task_1;
 
 import java.util.Objects;
 
+// +-
+// В туториалу по настройке гита был пункт добавить в .gitignore 
+// /out/
+// /.idea/
+//тогда файлы class не будут добавляться в гит - их не надо отправлять, только код
+//Последоватедовательность методов неверная - я пару раз на лекциях рассказывала
+//https://github.com/AmberInsane/pingwit-java/blob/master/src/main/java/pingwit/core/lec_6/classwork/point_1/ArrangementExample.java
 public class Bulldog {
     private Integer age;
     private String name;
