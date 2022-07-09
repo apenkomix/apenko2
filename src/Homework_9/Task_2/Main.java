@@ -3,6 +3,7 @@ package Homework_9.Task_2;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 
+//+
 public class Main {
     public static void main(String[] args) {
         String text = " Hello World";
@@ -14,5 +15,6 @@ public class Main {
         } catch (Exception e) {
             System.out.println("Exeption");
         }
+        //Не хватает finally для закрытия потока или можно использовать try с ресурсами
     }
 }
