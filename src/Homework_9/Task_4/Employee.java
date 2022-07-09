@@ -2,6 +2,7 @@ package Homework_9.Task_4;
 
 import java.io.Serializable;
 
+//+
 public class Employee implements Serializable {
     private String name;
     private Work work;
