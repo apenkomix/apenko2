@@ -2,6 +2,7 @@ package Homework_9.Task_6;
 
 import java.io.FileInputStream;
 
+//Это тестовый класс?) Не используется в основном Main-классе
 public class Read {
     public static void main(String[] args) {
         try(FileInputStream fis = new FileInputStream("src/Homework_9/Task_6/Manchester.png")){
