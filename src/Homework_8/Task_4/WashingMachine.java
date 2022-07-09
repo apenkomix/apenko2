@@ -1,5 +1,6 @@
 package Homework_8.Task_4;
 
+//+
 public class WashingMachine {
     private boolean waterPresent = false;
 
