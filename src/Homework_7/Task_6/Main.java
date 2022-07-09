@@ -5,15 +5,17 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
+//+ Красивое
 public class Main {
     public static void main(String[] args) {
-
+//Лишние пустые строчки
 
         String string = "";
 
         DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("HH:mm:ss");
         long startTime = System.currentTimeMillis();
-
+        //Только количество итераций лучше закинуть в переменную, чтобы везде было точно 
+        //одинаковое и при изменении значения было  достаточно изменить в одном месте 
         for (int i = 0; i < 400_000; i++) {
             string += "A";
         }
