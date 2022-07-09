@@ -2,12 +2,15 @@ package Homework_8.Task_1;
 
 import java.util.Scanner;
 
+//+-
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
             System.out.println("You can type");
             int number = scanner.nextInt();
+            //Если тут ввести строку, которая не является числом, программа выкинет ошибку 
+            //про деление на 0 - непорядок. Это разные эксепшены
             int secondnumber = scanner.nextInt();
             System.out.println(divide(number, secondnumber));
         }  catch (Exception e){
