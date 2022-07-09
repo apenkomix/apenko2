@@ -2,6 +2,7 @@ package Homework_9.Task_6;
 
 import java.io.FileOutputStream;
 
+//+-
 public class Main {
     public static void main(String[] args) {
         String text = "Best club";
