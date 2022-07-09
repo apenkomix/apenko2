@@ -2,6 +2,7 @@ package Homework_9.Task_4;
 
 import java.io.*;
 
+//+ Read -> Reader т.к. названия классов обычно существительные
 public class Read  {
     public static void main(String[] args) {
         String path = "src/Homework_9/Task_4/employee.txt";
